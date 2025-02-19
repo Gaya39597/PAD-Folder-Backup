@@ -39,7 +39,7 @@
 ### **Step 7: Save and Close Excel**
 - The Excel file is saved to ensure all data is retained.
 - The Excel instance is closed properly to avoid memory issues.
-![Backup flow screenshot](relative/path/to/screenshot.png)
+![Backup flow screenshot]([Folder Backup Flow -2.png](https://github.com/Gaya39597/PowerAutomate-Projects/blob/main/Folder%20Backup%20Flow%20-2.png))
 ## **4. Future Enhancements**
 - Automate this process to run on a schedule.
 - Implement email notifications after a successful backup.
