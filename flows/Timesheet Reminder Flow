@@ -12,6 +12,7 @@ This Power Automate flow is designed to send weekly reminders for timesheet subm
 1. **Post Adaptive Card**:
    - An adaptive card with a timesheet reminder message is posted to each employee listed in an Excel sheet.
    - The card includes an acknowledgment button for the employee to submit their status.
+   - The card timeout is set to 1hour to get response from all the employees.
 
 2. **Track Acknowledgment**:
    - When the button is clicked, the flow captures the user's response and logs the status (submitted/not submitted) in the Excel sheet.
